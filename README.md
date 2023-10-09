@@ -1,7 +1,7 @@
 # mxkph (Same handle in ROBLOX)
 
 Sophomore Software Engineer (Age:19),
-Started ROBLOX scripting recently, willing to learn more. Other programming languages that I know how to use: Java, C++, Vue.js, JavaScript, Python.
+Other programming languages that I know how to use: Java, C++, Vue.js, JavaScript, Python.
 
 Navigate through the folders in this repository to view the works that I made in ROBLOX Studio.
 
