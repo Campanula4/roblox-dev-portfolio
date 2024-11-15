@@ -1,6 +1,6 @@
 # mxkph (Same handle in ROBLOX)
 
-Sophomore Software Engineer (Age:19),
+Junior Software Engineer (Age 20),
 Other programming languages that I know how to use: Java, C++, JavaScript, Python, Go
 
 Navigate through the folders in this repository to view the works that I made in ROBLOX Studio.
@@ -12,5 +12,3 @@ https://youtu.be/SB0frXOl2Hk -- Remote Event Gun;
 https://youtu.be/U59ShrQ2VlE -- Randomly moving NPC;
 https://youtu.be/vvLgTdsP5zk -- Russian Roulette Button
 
-
-My discord: mx002
